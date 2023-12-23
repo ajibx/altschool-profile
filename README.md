@@ -1,0 +1,1 @@
+HTML page showing student profile and school form
